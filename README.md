@@ -8,6 +8,7 @@ The Sonify Virtual Keyboard 🎶 is a fun web-based application that turns your 
 - **Sound Files:** The project uses `.wav` sound files (A-Z.wav) located in the `sounds` folder to trigger the notes.
 - **Web-based:** You can use the app directly in your browser without needing to install anything.
 - **Lightweight and Fun:** No fancy setup—just press a key and hear the sound!
+![img](https://github.com/user-attachments/assets/3fe13cc9-5cd2-47b7-a997-dcb1c0014c72)
 
 ## How it Works
 When you press a key from A to Z, the app plays a sound file (e.g., `A.wav`, `B.wav`, etc.) from the `sounds` folder. These `.wav` files are mapped to their respective keys and played using simple JavaScript logic.
